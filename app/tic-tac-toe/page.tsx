@@ -1,4 +1,5 @@
 import { Sacramento } from "next/font/google";
+import TicTacToe from "../components/Tic-tac-toe";
 
 const sacramentoFont = Sacramento({
   weight: "400",
@@ -12,17 +13,13 @@ export default function About() {
       <h1
         className={`${sacramentoFont.className} font-sans text-6xl sm:text-7xl md:text-8xl text-hecsOklch2 text-center`}
       >
-        About Me
+        Tic-Tac-Toe
       </h1>
       <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-4 text-center">
-        (˶ᵔ ᵕ ᵔ˶)
+         {"GLHF <3"}
       </h2>
       <p className="text-gray-600 text-lg sm:text-xl text-center max-w-xl">
-        I'm a Bachelor of Information Technology graduate with an interest in cloud analytics and web development. 
-        <br /><br />
-        I wanted to create a web application to showcase my skills in using Next.JS, TypeScript, React, and Tailwind.
-        <br /><br />
-        Thanks for looking!
+       <TicTacToe/>
       </p>
     </main>
   );
