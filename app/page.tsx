@@ -9,9 +9,9 @@ const sacramentoFont = Sacramento({
 
 export default function Home() {
   return (
-    <div className="relative min-h-screen overflow-hidden">
+    <div className="relative overflow-hidden">
       
-      <main className="flex flex-col items-center justify-start min-h-screen px-4 pt-16 sm:pt-20 md:pt-24">
+      <main className="flex flex-col items-center justify-start px-4 pt-16 sm:pt-20 md:pt-24">
         <h1 className={`${sacramentoFont.className} font-sans text-8xl text-hecsOklch2`}>
           Hi I'm Sara
         </h1>

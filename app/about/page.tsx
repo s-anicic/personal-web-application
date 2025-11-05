@@ -7,7 +7,7 @@ const sacramentoFont = Sacramento({
 
 export default function About() {
   return (
-    <main className="flex flex-col items-center justify-start min-h-screen px-4 pt-16 sm:pt-20 md:pt-24">
+    <main className="flex flex-col items-center justify-start px-4 pt-16 sm:pt-20 md:pt-24">
     
       <h1
         className={`${sacramentoFont.className} font-sans text-6xl sm:text-7xl md:text-8xl text-hecsOklch2 text-center`}
