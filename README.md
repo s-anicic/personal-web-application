@@ -29,13 +29,13 @@ It features a **Home page**, **About Me page**, a fun **Tic-Tac-Toe game**, and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/s-anicic/personal-web-application
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd your-repo-name
+cd personal-web-application
 ```
 
 ### 3. Install dependencies
