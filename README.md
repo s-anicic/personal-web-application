@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌸 Personal Web Application
 
-## Getting Started
+A modern, minimalist web application built to showcase my skills and creativity.
+It features a **Home page**, **About Me page**, a fun **Tic-Tac-Toe game**, and a sleek **Calculator** — all styled with a cute, contemporary aesthetic and Google Fonts.
 
-First, run the development server:
+---
+
+## ✨ Features
+
+- 🏠 **Home Page** – Welcoming introduction with smooth navigation
+- 👩‍💻 **About Me Page** – A short bio highlighting my background and interests
+- ❌⭕ **Tic-Tac-Toe Game** – Interactive and responsive, built with React logic
+- 🧮 **Calculator** – Functional and minimal, designed for clarity and simplicity
+- 🎨 **Modern UI** – Clean layout with Tailwind CSS and custom Google Fonts for a soft, friendly look
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ **Framework:** [Next.js](https://nextjs.org/)
+- 💻 **Frontend:** [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
+- 🎨 **Styling:** [Tailwind CSS](https://tailwindcss.com/), [Google Fonts](https://fonts.google.com/)
+- 🧩 **Version Control:** [GitHub](https://github.com/)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+```
+
+### 2. Navigate into the project
+
+```bash
+cd your-repo-name
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open **[http://localhost:3000](http://localhost:3000)** in your browser to view the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Future Enhancements
 
-## Learn More
+- 🎵 Add background music toggle for a more immersive experience
+- 🌙 Implement light/dark mode
+- 📱 Improve mobile responsiveness
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧠 What I Learned
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project helped me strengthen my skills in:
 
-## Deploy on Vercel
+- Building modular and interactive components with React + TypeScript
+- Applying responsive and accessible UI design using Tailwind CSS
+- Understanding Next.js routing and project structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 Preview
+
+<img src="https://github.com/user-attachments/assets/5d722a7b-5707-49d6-911b-b42411f3b3b6" alt="Home Page"/>
+<p align="center"><em>The home page</em></p>
+
+<img src="https://github.com/user-attachments/assets/9a33fe74-2c26-4f0c-91cd-5797f7628262" alt="About Me Page"/>
+<p align="center"><em>The about page</em></p>
+
+<img src="https://github.com/user-attachments/assets/01b5ef68-4bc1-4f71-9658-162beb35f5cb" alt="Tic-Tac-Toe Mini-Game"/>
+<p align="center"><em>A Tic-Tac-Toe mini-game</em></p>
+
+<img src="https://github.com/user-attachments/assets/b76b3dc4-77f0-4011-ae32-fcd97a89d93b" alt="Calculator"/>
+<p align="center"><em>A functional calculator</em></p>
+
+---
+
+## 💖 Acknowledgements
+
+- Fonts from [Google Fonts](https://fonts.google.com/)
